@@ -12,9 +12,10 @@ This project focuses on cleaning, transforming, and analyzing an e-commerce data
 ## 📂 Project Structure
 
 * `schema/` → Database and table creation
-* `cleaning/` → Data cleaning & preprocessing
-* `analysis/` → Business insights & analytics
+* `data_cleaning/` → Data cleaning & preprocessing
+* `analytics/` → Business insights & analytics
 * `data/` → Raw dataset
+* 'Ecommerce_Sales_Insights_SQL_Project' - Complete Project
 
 ## 🔍 Key Tasks Performed
 
