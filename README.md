@@ -15,7 +15,7 @@ This project focuses on cleaning, transforming, and analyzing an e-commerce data
 * `data_cleaning/` → Data cleaning & preprocessing
 * `analytics/` → Business insights & analytics
 * `data/` → Raw dataset
-* 'Ecommerce_Sales_Insights_SQL_Project' - Complete Project
+* `Ecommerce_Sales_Insights_SQL_Project/` → Complete Project
 
 ## 🔍 Key Tasks Performed
 
